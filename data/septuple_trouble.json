@@ -4,10 +4,15 @@
     "author": "YalZu",
     "verifier": "Kozia",
     "desc": "",
-    "percentToQualify": "100",
+    "percentToQualify": "86",
     "handcam": false,
     "hacked": false,
     "verificationVid": "",
     "records": [
+        {
+            "percent": "86"
+            "link": ""
+            "user": "Zoiter Process"
+        }
     ]
 }
