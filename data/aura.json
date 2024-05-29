@@ -8,6 +8,11 @@
     "handcam": false,
     "hacked": false,
     "verificationVid": "https://youtu.be/h_SDYa7l95c",
-    "records": [
+    "records": [ 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/oBlOUcIGmhg",
+            "user": "Zoiter Process"
+        }
     ]
 }
