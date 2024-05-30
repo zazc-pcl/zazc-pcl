@@ -8,6 +8,11 @@
     "handcam": false,
     "hacked": false,
     "verificationVid": "https://www.youtube.com/watch?v=xyZ15bcgFLQ",
-    "records": [
+    "records": [ 
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=8K8NnI2LpVk&t=35s",
+            "user": "Zoiter Process"
+        }
     ]
 }
