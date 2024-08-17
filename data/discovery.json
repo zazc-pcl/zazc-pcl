@@ -11,8 +11,8 @@
     "records": [
         {
             "percent": "100",
-            "link": "goobert",
-            "user": "https://youtu.be/Fv_hgEudRlE"
+            "link": "https://youtu.be/Fv_hgEudRlE",
+            "user": "goobert"
         }
     ]
 }
